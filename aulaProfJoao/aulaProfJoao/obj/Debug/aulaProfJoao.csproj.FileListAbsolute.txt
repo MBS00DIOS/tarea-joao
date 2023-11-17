@@ -1,0 +1,11 @@
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\bin\Debug\aulaProfJoao.exe.config
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\bin\Debug\aulaProfJoao.exe
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\bin\Debug\aulaProfJoao.pdb
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\obj\Debug\aulaProfJoao.csproj.AssemblyReference.cache
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\obj\Debug\aulaProfJoao.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\obj\Debug\aulaProfJoao.Form1.resources
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\obj\Debug\aulaProfJoao.Properties.Resources.resources
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\obj\Debug\aulaProfJoao.csproj.GenerateResource.cache
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\obj\Debug\aulaProfJoao.csproj.CoreCompileInputs.cache
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\obj\Debug\aulaProfJoao.exe
+C:\Users\2022102020083\source\repos\aulaProfJoao\aulaProfJoao\obj\Debug\aulaProfJoao.pdb
